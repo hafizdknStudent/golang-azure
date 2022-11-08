@@ -1,0 +1,62 @@
+{
+ "location": {
+  "city": "malang",
+  "latitude": "",
+  "longitude": ""
+ },
+ "weather": {
+  "base": "stations",
+  "clouds": {
+   "all": 65
+  },
+  "cod": 200,
+  "coord": {
+   "lat": -7.9797,
+   "lon": 112.6304
+  },
+  "dt": 1667884725,
+  "id": 1636722,
+  "main": {
+   "feels_like": 30.34,
+   "humidity": 72,
+   "pressure": 1011,
+   "temp": 27,
+   "temp_max": 27.7,
+   "temp_min": 27.7
+  },
+  "name": "Malang",
+  "rain": {
+   "1h": 0
+  },
+  "sys": {
+   "country": "ID",
+   "id": 0,
+   "sunrise": 1667858413,
+   "sunset": 1667903172,
+   "type": 0
+  },
+  "timezone": 25200,
+  "visibility": 8368,
+  "weather": [
+   {
+    "description": "broken clouds",
+    "icon": "04d",
+    "id": 803,
+    "main": "Clouds"
+   }
+  ],
+  "wind": {
+   "deg": 312,
+   "speed": 1.07
+  }
+ },
+ "condition": {
+  "water": 53,
+  "wind": 34
+ },
+ "status": {
+  "status_water": "Bahaya",
+  "status_wind": "Bahaya"
+ },
+ "time": 0
+}
